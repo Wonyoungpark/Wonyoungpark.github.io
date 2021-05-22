@@ -50,12 +50,12 @@ github_username:  Wonyoungpark
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요 박원영입니다.<br>
-  수많은 0 중에서 유의미한 <b>1</b> 로 되고 싶습니다.
+  수많은 0 중에서 유의미한 <mark>1</mark> 로 되고 싶습니다.
 # skilled in: <mark>Python</mark>, <mark>Django</mark> and <mark>Eating Pizza</mark>
   
-  지속적인 <mark>자기 개발</mark>
+  엔지니어가 되기 위한 지속적인 <mark>자기 개발</mark>
     - 학습한 공부 내용 공유 <a href="https://github.com/Wonyoungpark/TIL" target="_blank"> Today, I Learned </a>
-    - 외국어 능력 향상을 위하 영어 쉐도잉
+    - 외국어 능력 향상을 위한 영어 쉐도잉
 
 content:
   - title: Projects # Title for the section
@@ -150,7 +150,7 @@ content:
         link: 
         # link_text: boringcompany.com
         sub_title: Undergraduate Researcher
-        caption: September 2019 - Present
+        caption: September 2019 - February 2021
 #         quote: >
         description: | # this will include new lines to allow paragraphs
           [![teamlab link](/images/teamlab.png "teamlab"){: width="50%" height="50%"0}{: align="center"}](http://theteamlab.io/)
