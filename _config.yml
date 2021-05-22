@@ -53,6 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   수많은 0 중에서 유의미한 <mark>1</mark> 로 되고 싶습니다.
   
   엔지니어가 되기 위한 지속적인 <mark>자기개발</mark>
+    - 학습한 공부 내용 공유 <a href="https://github.com/Wonyoungpark/TIL" target="_blank">TIL</a>
 # skilled in: <mark>Python</mark>, <mark>Django</mark> and <mark>Eating Pizza</mark>
 
 
