@@ -72,7 +72,7 @@ content:
         additional_links:
           - title:  인공지능과 서술형 
             icon: fab fa-youtube
-            url: https://www.youtube.com/embed/20h195JbXSQ
+            url: https://www.youtube.com/channel/UC8FE7ExuI3tyAzoZ5zE6uVw/featured
           - title:  notion/WA3I-Automated-Scoring
             icon: fas fa-link
             url: https://www.notion.so/WAI-Project-4ab740fd57c1426ba422dfda4dfba07b
@@ -89,6 +89,9 @@ content:
             - Bootstrap, HTML, css, jQuery, Ajax, DataTables : web front-end 개발<br>
             - Python : request 데이터 처리, 채점 모델 API 연결<br>
             - Docker : 시스템 구축 및 실행<br>
+          - 시연 영상<br>
+            - <a href="https://youtu.be/maK-wlRUblg" target="_blank"> 프로젝트 소개 영상 </a><br>
+            - <a href="https://www.youtube.com/watch?v=FQQ1MDM6MWo" target="_blank"> 학생용 사용 방법 영상 </a><br>
             
       - layout: top-middle
         title: Codeborn-Autograding
