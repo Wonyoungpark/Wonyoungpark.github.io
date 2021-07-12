@@ -151,18 +151,13 @@ content:
             
       - layout: top-middle
         title: S.I.C.K(STUDY INFORMATION & COMMUNICATE, KOREA)
+        # link_text: Project Website
+        github: Wonyoungpark/SBS
+        additional_links:
+          - title: GitHub Link
+            icon: fab fa-github
+            url: https://github.com/Wonyoungpark/SBS
             
-      # - layout: top-middle
-      #   title: S.I.C.K(STUDY INFORMATION & COMMUNICATE, KOREA)
-      #   # link_text: Project Website
-      #   github: Wonyoungpark/SBS
-      #   additional_links:
-      #     - title: GitHub Link
-      #       icon: fab fa-github
-      #       url: https://github.com/Wonyoungpark/SBS
-      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #     #   icon: fab fa-github
-      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
       #   quote: >
       #     논문 검색 및 논문 투고자와 학회간 리뷰(피드백) 사이트
       #   description: | # this will include new lines to allow paragraphs
