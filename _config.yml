@@ -149,6 +149,9 @@ content:
             - Python : request 데이터 처리<br>
             - AWS - EC2(Linux-Ubuntu) : 시스템 실행<br>
             
+      - layout: top-middle
+        title: S.I.C.K(STUDY INFORMATION & COMMUNICATE, KOREA)
+            
       # - layout: top-middle
       #   title: S.I.C.K(STUDY INFORMATION & COMMUNICATE, KOREA)
       #   # link_text: Project Website
