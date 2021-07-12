@@ -152,8 +152,8 @@ content:
             
       - layout: top-middle
         title: S.I.C.K(STUDY INFORMATION & COMMUNICATE, KOREA)
-        # link: github.com/sproogen
         # link_text: Project Website
+        github: Wonyoungpark/SBS
         additional_links:
           - title: GitHub Link
             icon: fab fa-github
